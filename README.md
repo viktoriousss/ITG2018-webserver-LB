@@ -8,3 +8,4 @@ Notice that you will need to create a terraform.tfvars yourself containing:
 - region (AWS region)
 - key_name (AWS SSH key)
 - iam_instance_profile (AWS IAM profile for access to S3)
+#learning git
